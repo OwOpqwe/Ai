@@ -17,7 +17,7 @@ if st.button("Ask AI"):
     if question.strip():
         try:
             response = requests.post(
-                "http://127.0.0.1:8000/ask",
+                "https://charlies-ai.onrender.com/ask",
                 json={"question": question},
                 timeout=10
             )
