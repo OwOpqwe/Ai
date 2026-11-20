@@ -4,10 +4,10 @@ from pydantic import BaseModel
 
 from model import load_trained_model, predict
 
-# Create the FastAPI application
+# Create API
 app = FastAPI(title="My Personal AI API")
 
-# Load your trained AI
+# Load trained AI
 model, vocabulary, answers = load_trained_model()
 
 
