@@ -1,1 +1,50 @@
 
+[
+  {"question":"What is my name?","answer":"My name is Alex."},
+  {"question":"Who am I?","answer":"My name is Alex."},
+  {"question":"Tell me my name.","answer":"My name is Alex."},
+  {"question":"What should people call me?","answer":"My name is Alex."},
+  {"question":"Can you tell me my name?","answer":"My name is Alex."},
+
+  {"question":"When is my birthday?","answer":"My birthday is June 15."},
+  {"question":"What day was I born?","answer":"My birthday is June 15."},
+  {"question":"Tell me my birthday.","answer":"My birthday is June 15."},
+  {"question":"When do I celebrate my birthday?","answer":"My birthday is June 15."},
+  {"question":"When was I born?","answer":"My birthday is June 15."},
+
+  {"question":"What is my height?","answer":"My height is 170 cm."},
+  {"question":"How tall am I?","answer":"My height is 170 cm."},
+  {"question":"Tell me how tall I am.","answer":"My height is 170 cm."},
+  {"question":"Do you know my height?","answer":"My height is 170 cm."},
+  {"question":"How many centimeters tall am I?","answer":"My height is 170 cm."},
+
+  {"question":"What is my weight?","answer":"My weight is 60 kg."},
+  {"question":"How much do I weigh?","answer":"My weight is 60 kg."},
+  {"question":"Tell me my weight.","answer":"My weight is 60 kg."},
+  {"question":"Do you know how much I weigh?","answer":"My weight is 60 kg."},
+  {"question":"What is my body weight?","answer":"My weight is 60 kg."},
+
+  {"question":"What is my shoe size?","answer":"My shoe size is EU 42."},
+  {"question":"What size shoes do I wear?","answer":"My shoe size is EU 42."},
+  {"question":"Tell me my shoe size.","answer":"My shoe size is EU 42."},
+  {"question":"Do you know my footwear size?","answer":"My shoe size is EU 42."},
+  {"question":"What size are my shoes?","answer":"My shoe size is EU 42."},
+
+  {"question":"What is my favorite subject?","answer":"My favorite subject is Mathematics."},
+  {"question":"Which subject do I like most?","answer":"My favorite subject is Mathematics."},
+  {"question":"What subject do I enjoy?","answer":"My favorite subject is Mathematics."},
+  {"question":"Tell me my favorite school subject.","answer":"My favorite subject is Mathematics."},
+  {"question":"Which is my best subject?","answer":"My favorite subject is Mathematics."},
+
+  {"question":"What is my hobby?","answer":"My hobby is basketball."},
+  {"question":"What do I enjoy doing?","answer":"My hobby is basketball."},
+  {"question":"What do I do for fun?","answer":"My hobby is basketball."},
+  {"question":"Tell me about my hobby.","answer":"My hobby is basketball."},
+  {"question":"What activity do I enjoy?","answer":"My hobby is basketball."},
+
+  {"question":"What is my future goal?","answer":"My future goal is to become a software engineer."},
+  {"question":"What career do I want?","answer":"My future goal is to become a software engineer."},
+  {"question":"What do I want to become?","answer":"My future goal is to become a software engineer."},
+  {"question":"Tell me my career goal.","answer":"My future goal is to become a software engineer."},
+  {"question":"What is my dream job?","answer":"My future goal is to become a software engineer."}
+]
